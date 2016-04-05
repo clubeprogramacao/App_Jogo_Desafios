@@ -1,6 +1,7 @@
 # App_Jogo_Desafios
-App
+
 Resumo:
+
 A ideia inicial é fazer uma App, para criar e fazer Desafios entre as pessoas, em que já haveria alguns pre-definidos (ou não), outros que seriam acrescentados pelas pessoas a desafiar outras, tendo vários graus de dificuldade (caso fosse a melhor maneira ou então sem grau).
 
 As pessoas tiravam uma foto, gravavam 1 video a comprovar que tinham realizado esse Desafio, e depois haveria a comprovação ou por as pessoas ligadas à App (coisa que não seria viável para muitas pessoas e Desafios), ou por votos das pessoas a dizer se tinha concluído, e até a dar pontuações que daria para Bonús ou outro tipo de valorização, ou então haveria 1 júri seleccionado de forma aleatória que dizia se a pessoa tinha cumprido o objectivo ou não. Poderia haver também comentários a dizer o que gostaram mais ou menos, e/ou só certas imagens de voto.
