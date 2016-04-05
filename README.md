@@ -19,6 +19,8 @@ Passando aos possíveis temas dos ditos Desafios, poderiam ser desde:
   - Artisticas 
     - Música, Dança, Pintura, Design, etc
   
+  - Cientificos (de construção de algum robot, de uma placa, de 1a experiência química, etc)
+  
   - Natureza: 
     - plantar vários tipos de coisas: Árvores, plantas, etc
     - construir 1a cabana
